@@ -1,1 +1,24 @@
-.
+body {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+.navbar {
+  background-color: #bd42ae;
+}
+.quem-somos {
+  background-color: #fc55e8;
+}
+.margin {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.parceiros {
+  background-color: violet;
+}
+.servicos {
+  background-color: pink;
+}
+.bg-footer {
+  background-color: #bd42ae;
+}
